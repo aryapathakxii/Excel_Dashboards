@@ -1,4 +1,5 @@
 Title: Netflix Movies & TV Shows Analysis
+
 Objective:
 To analyze Netflix’s movie and TV show catalog to uncover trends, insights, and recommendations for content strategy based on genre popularity, release trends, and country distributions.
 
